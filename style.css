@@ -355,7 +355,7 @@ section
         color: #ff0157;
     }
     .course{
-        margin-top: 100px;
+        margin-top: 90px;
     }
     .menuToggle
     {
@@ -411,9 +411,9 @@ section
     .row .col50 .imgbx img{
         /* left: 20%; */
         right: 20%;
-        width: 300px;
+        width: 310px;
         height: 410px;
-        margin-left: -90px;
+        margin-left: -80px;
     }
 
 }
