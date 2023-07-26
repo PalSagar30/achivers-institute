@@ -403,17 +403,16 @@ section
         margin-top: 20px;
     }
     .contact iframe{
-        /* position: absolute; */
-       /* margin-right: 100px; */
+       
        margin-left: 10px;
         height:250px;
         width: 300px;
     }
     .row .col50 .imgbx img{
-        /* left: 20%; */
+        
         right: 20%;
-        width: 280px;
-        height: 350px;
+        width: 250px;
+        height: 300px;
         margin-left: -40px;
     }
 
