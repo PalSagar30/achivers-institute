@@ -181,12 +181,6 @@ section
     height: 50%;
 }
 
-
-
-/* course section */
-/* .course{
-    margin-top: -100px;
-} */
 .title
 {
     
@@ -345,8 +339,9 @@ section
     header .navigation li
     {
         margin-left: 0;
+        padding-bottom: 50px;
     }
-    header .navigation li  a
+    header .navigation li a
     {
         color: #111;
         font-size: 1.6em;
